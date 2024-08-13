@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-top">
         <div className="footer-section company-info">
-          <h2>Your Company</h2>
+          <h2>Our Portfolio</h2>
           <p>
             Crafting exceptional web experiences with cutting-edge technology and creative design.
           </p>
@@ -17,7 +17,6 @@ const Footer = () => {
             <li><a href="/about">About</a></li>
             <li><a href="/portfolio">Portfolio</a></li>
             <li><a href="/contact">Contact</a></li>
-            <li><a href="/services">Services</a></li>
           </ul>
         </div>
         <div className="footer-section social-media">
