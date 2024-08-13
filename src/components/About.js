@@ -35,7 +35,7 @@ const About = () => {
             <p>Creating responsive designs that work seamlessly on all devices.</p>
           </div>
           <div className="skill-card">
-            <i className="fas fa-git-alt"></i>
+            <i className="fab fa-git-alt"></i>
             <h3>Version Control</h3>
             <p>Experienced with Git, GitHub, and collaborative coding practices.</p>
           </div>
@@ -97,17 +97,17 @@ const About = () => {
         <h2>Testimonials</h2>
         <div className="testimonial-card">
           <p>
-            "Working with [Your Name] was a pleasure. They delivered exceptional quality and
+            "Working with Tribikram KC was a pleasure. They delivered exceptional quality and
             truly understood our needs. Highly recommended!"
           </p>
-          <p>- Client Name, Company</p>
+          <p>- Pratish Chapagain, Pathao Nepal</p>
         </div>
         <div className="testimonial-card">
           <p>
-            "[Your Name] is a top-notch developer with a keen eye for detail. Their work
+            "Tribikram KC is a top-notch developer with a keen eye for detail. Their work
             exceeded our expectations."
           </p>
-          <p>- Client Name, Company</p>
+          <p>- James Oli, Extratech Australia</p>
         </div>
       </section>
 
