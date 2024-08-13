@@ -1,6 +1,6 @@
 import React from 'react';
-import './Portfolio.css'; // Make sure to create this file in the same folder as Portfolio.js
-import Project1Image from '../Images/project1.png'; // Add images to your 'src/images' folder
+import './Portfolio.css';
+import Project1Image from '../Images/project1.png'; 
 import Project2Image from '../Images/project2.png';
 import Project3Image from '../Images/project3.png';
 

@@ -1,6 +1,6 @@
 import React from 'react';
-import './Home.css'; // Make sure to create this file in the same folder as Home.js
-import HeroImage from '../Images/hero-background.avif'; // Add a background image in the 'src/images' folder
+import './Home.css'; 
+import HeroImage from '../Images/hero-background.avif'; 
 
 const Home = () => {
   return (
