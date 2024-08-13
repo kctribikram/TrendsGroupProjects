@@ -9,7 +9,7 @@ body {
   
   /* Hero Section */
   .hero {
-    background-image: url('https://images.unsplash.com/photo-1495465798138-718f86d1a4bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace with your own image */
+    background-image: url('https://images.unsplash.com/photo-1511649475669-e288648b2339?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace with your own image */
     background-size: cover;
     background-position: center;
     height: 60vh;
@@ -21,8 +21,8 @@ body {
   }
   
   .hero-content {
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 20px;
+    background-color: rgba(79, 214, 221, 0.87);
+    padding: 30px;
     border-radius: 10px;
   }
   
