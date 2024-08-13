@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Home from './components/Home';
-import About from './components/About';
-import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Navbar from './components/Navbar/Navbar';
+import Home from './components/Homepage/Home';
+import About from './components/About/About';
+import Portfolio from './components/Portfolio/Portfolio';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 const App = () => {
   return (
